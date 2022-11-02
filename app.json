@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/AM-ROBOTS/AM-ROBOTS",
-    "repository": "https://github.com/Kingmaker003/searchbot",
+    "repository": "https://github.com/AM-ROBOTS/AM-ROBOTS",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
