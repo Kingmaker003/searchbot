@@ -1,6 +1,6 @@
 {
-    "name": "ᎯℕUℛᎯᎶ",
-    "description": "Clone Of ᎯℕUℛᎯᎶ & More Features Added",
+    "name": "Rolex",
+    "description": "Clone Of Rolex & More Features Added",
     "stack": "container",
     "logo": "https://telegra.ph/file/9ee1253e36b37a1665ce2.jpg",
     "keywords": [
@@ -16,7 +16,7 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/AM-ROBOTS/AM-ROBOTS",
+    "website": "https://github.com/Kingmaker003/searchbot",
     "repository": "https://github.com/Kingmaker003/searchbot",
     "env": {
         "BOT_TOKEN": {
